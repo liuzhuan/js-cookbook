@@ -10,7 +10,7 @@
 
 ## [基础篇：JavaScript 客户端签名直传](https://help.aliyun.com/document_detail/31925.html)
 
-![JavaScript 客户端签名直传](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/image/practice-post-callback-2.png)
+![JavaScript 客户端签名直传](assets/practice-post-callback-2.png)
 
 OSS 的 PostObject API 细节可以参照[这里](postobject.md)。
 
@@ -68,7 +68,7 @@ function check_object_radio() {
 1. 客户端要上传图片时，到应用服务器取上传的 policy 及签名。
 1. 客户端拿到签名直接上传到 OSS。
 
-![服务器签名后直传](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/image/practice-post-callback-5.png)
+![服务器签名后直传](assets/practice-post-callback-5.png)
 
 ### 获取上传后的文件名
 
@@ -161,4 +161,4 @@ if (expire < now + 3){
 6. 应用服务器给 OSS 返回。
 7. OSS 将应用服务器返回的内容返回给用户。
 
-![服务端签名直传并设置上传回调](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/image/practice-post-callback-7.png)
+![服务端签名直传并设置上传回调](assets/practice-post-callback-7.png)

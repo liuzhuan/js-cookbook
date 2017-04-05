@@ -46,7 +46,7 @@ ACL （Access Control List） | 存储空间或者文件的权限
 
 #### 开发业务流程
 
-![临时凭证授权的上传](https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/internal/oss/0.0.4/assets/image/oss_upload_with_sts.png)
+![临时凭证授权的上传](assets/oss_upload_with_sts.png)
 
 ## [权限管理概述](https://help.aliyun.com/document_detail/31929.html)
 
