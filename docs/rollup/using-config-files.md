@@ -35,3 +35,5 @@ rollup -c -o bundle-2.js
 rollup --config rollup.config.dev.js
 rollup --config rollup.config.prod.js
 ```
+
+next: [npm run build](./npm-run-build.md)
