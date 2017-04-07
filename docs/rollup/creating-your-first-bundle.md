@@ -68,3 +68,5 @@ node
 ```
 
 祝贺你！你用 Rollup 成功创建了第一个包！
+
+next: [Using config files](./using-config-files.md)
