@@ -14,6 +14,10 @@
   "devDependencies": {
     "rollup": "^0.41.6",
     "rollup-plugin-json": "^2.1.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-watch": "^3.2.2"
+  },
+  "dependencies": {
+    "the-answer": "^1.0.0"
   }
 }

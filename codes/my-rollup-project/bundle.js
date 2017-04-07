@@ -1,11 +1,11 @@
 'use strict';
 
-var version = "1.0.0";
+var index = 42;
 
 // src/main.js
 
-var main$$1 = function() {
-    console.log('version: ' + version);
+var main = function() {
+    console.log('the answer is ' + index);
 };
 
-module.exports = main$$1;
+module.exports = main;
