@@ -82,3 +82,5 @@ npm install --save-dev rollup-watch
 ```
 
 命令 `rollup -c -w` （`rollup --config --watch` 的缩写）让 Rollup 运行在监控模式。
+
+next: [Getting started with plugins](getting-started-with-plugins.md)
