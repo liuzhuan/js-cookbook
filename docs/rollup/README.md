@@ -66,3 +66,5 @@ Rollup 通过[插件](https://github.com/rollup/rollup-plugin-commonjs)可以引
 
 * 手把手的[视频教程系列](https://code.lengstorf.com/learn-rollup-js/)，配有文字步骤注解
 * [wiki](https://github.com/rollup/rollup/wiki) 上有五花八门的问题
+
+next: [Creating your first bundle](creating-your-first-bundle.md)
