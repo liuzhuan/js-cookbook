@@ -19,6 +19,8 @@
 
 1. [Speaking JavaScript](http://speakingjs.com/es5/index.html), Dr. Axel Rauschmayer
 1. [Exploring ES6](http://exploringjs.com/es6/index.html), Dr. Axel Rauschmayer
+1. [Mozilla 开发者网络](https://developer.mozilla.org/en-US)
+    * [继承和原型链](./docs/mdn/inheritance-and-prototype-chain.md)
 
 ### Functional Programming
 1. [Learning Functional Programming with JS](https://slidr.io/vakila/learning-functional-programming-with-javascript#1), Anjana Vakil, JSUnconf
