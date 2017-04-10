@@ -17,6 +17,9 @@
 
 ## 资源列表
 
+1. [Speaking JavaScript](http://speakingjs.com/es5/index.html), Dr. Axel Rauschmayer
+1. [Exploring ES6](http://exploringjs.com/es6/index.html), Dr. Axel Rauschmayer
+
 ### Functional Programming
 1. [Learning Functional Programming with JS](https://slidr.io/vakila/learning-functional-programming-with-javascript#1), Anjana Vakil, JSUnconf
 1. [What is Map-Reduce](http://www.datasciencecentral.com/forum/topics/what-is-map-reduce), Mirko Krivanek
