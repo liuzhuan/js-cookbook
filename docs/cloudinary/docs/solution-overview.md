@@ -148,3 +148,10 @@ production:
 
 Cloudinary 自动生成一对 access identifiers, 分别是 `API Key` 和 `API Secret`，使用 Cloudinary API 通信和签名请求时需要用到两者。
 
+### URLs and endpoints
+
+基础地址包括你的 cloud name. 比如，如果你的 cloud name 是 'demo', 基础地址将是：
+
+* `api.cloudinary.com/v1_1/demo/` 是获取 Cloudinary 安全 API 的基础地址
+* `http://res.cloudinary.com/demo/` Cloudinary 分享 CDN 的基础地址
+* `http://demo-res.cloudinary.com/` 私有 CDN 基础地址（只针对高级计划）。
