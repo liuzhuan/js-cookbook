@@ -98,3 +98,4 @@ http://res.cloudinary.com/demo/video/upload/w_220,h_220,c_fill,q_50/dog.mp4
 * [关于 Cloudinary](http://cloudinary.com/about)
 * [免费注册](https://cloudinary.com/users/register/free)
 * [开发文档](./docs/README.md)
+* [jQuery integration](jquery_integration.md)
