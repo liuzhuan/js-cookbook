@@ -8,6 +8,7 @@
 1. [rollup.js 是什么？](docs/rollup/README.md)
 1. [如何使用 Cloudinary 管理图片？](./docs/cloudinary/README.md)
 1. [How to use Webpack?](./docs/webpack/README.md)
+1. [How to learn Functional Programming?](./docs/functional-programming/README.md)
 
 ## 教程列表
 1. [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
