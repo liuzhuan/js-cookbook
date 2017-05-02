@@ -68,3 +68,7 @@ Appends fulfillment and rejection handlers to the promise, and returns a new pro
 [super simple promise](./super-simple-promise.js)
 
 [creating a promise](creating-a-promise.html)
+
+## References
+1. [JavaScript Promises 规范 - 简化异步工作 - Udacity](https://cn.udacity.com/course/javascript-promises--ud898)
+1. [JavaScript Promise 迷你书](./javascript-promises-book.md)
