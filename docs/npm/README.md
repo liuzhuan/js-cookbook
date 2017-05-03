@@ -5,3 +5,4 @@
 1. [npm install](./cli-install.md)
 1. [semver](./semver.md)
 1. [npm update](./update.md)
+1. [The npm config files](./npmrc.md)
