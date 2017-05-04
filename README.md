@@ -12,6 +12,7 @@
 1. [How to use Webpack?](./docs/webpack/README.md)
 1. [How to learn Functional Programming?](./docs/functional-programming/README.md)
 1. [How to use Promise?](./docs/promise/README.md)
+1. [What is Prepack?](./docs/prepack.md)
 
 ## 教程列表
 1. [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
