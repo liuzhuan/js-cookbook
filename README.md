@@ -2,6 +2,7 @@
 
 ## 问题列表
 
+1. [ECMAScript Value Types](./docs/js-value.md)
 1. [如何使用 Node.js?](docs/node/README.md)
 1. [How to use npm?](./docs/npm/README.md)
 1. [How to use yarn?](./docs/yarn/README.md)
