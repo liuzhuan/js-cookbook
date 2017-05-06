@@ -64,7 +64,7 @@ Special characters recognized in section names for wildcard matching:
 
 Pattern | Detail
 --- | ---
-* | Matches any string of characters, except path separactors
+\* | Matches any string of characters, except path separactors
 ** | Matches any string of characters
 ? | Matches any single character
 [name] | Matches any single character in name
