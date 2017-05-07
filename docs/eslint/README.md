@@ -11,5 +11,5 @@ ESLint is an open source project originally created by *Nicholas C. Zakas* in Ju
 * [Get Started](./user-guide/getting-started.md)
 * [About](./about.md) Learn more about ESLint and why it came about and the general philosophy behind it.
 * [Rules](./rules.md) ESLint comes with a bunch of default rules to get you started. This is the complete list.
-* [Command Line Interface](./command-line-interface.md) ESLint is written to be used primarily on the command line. Learn about its usage here.
-* [Developer Guide](./developer-guide.md) Love ESLint and want to help make it even awesomer? We've got all the details to get you started.
+* [Command Line Interface](./user-guide/command-line-interface.md) ESLint is written to be used primarily on the command line. Learn about its usage here.
+* [Developer Guide](./developer-guide/README.md) Love ESLint and want to help make it even awesomer? We've got all the details to get you started.
