@@ -16,6 +16,7 @@
 1. [What is Prepack?](./docs/prepack.md)
 1. [What is EditorConfig?](./docs/editorconfig.md)
 1. [How to use ESLint?](./docs/eslint/README.md)
+1. [深入浅出妙用 JavaScript 中 apply, call, bind](./docs/compare-apply-call-bind.md)
 
 ## 教程列表
 1. [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
