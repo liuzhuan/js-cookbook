@@ -26,6 +26,7 @@
 1. [Taking Things Out of Context: Functors in JavaScript](http://mattfield.github.io/javascript/2013/07/28/taking-things-out-of-context-functors-in-javascript/), by Matt Field, 2013/07/28
 1. [函数式编程入门教程](http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html), by 阮一峰, 2017/02/22
 1. [Survivejs - webpack](https://survivejs.com/webpack/foreword/), by Juho Vepsäläinen
+1. [腾讯工程师们怎么玩 Vue.js? - 腾云阁](https://www.qcloud.com/community/article/348215)
 
 ## 资源列表
 
