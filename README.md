@@ -23,6 +23,7 @@
 1. [What is Jasmine?](./docs/jasmine/README.md)
 1. [什么是前端异常监控系统?](./docs/front-end-monitor-system/README.md)
 1. [How to use class in ES6?](./docs/use-class-in-es6.md)
+1. [How to use native es6 module in Chrome 61?](./docs/native-es6-in-chrome61/README.md)
 
 ## 教程列表
 1. [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
