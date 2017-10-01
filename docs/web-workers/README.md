@@ -1,5 +1,11 @@
 # 如何使用 Web Workers?
 
+## 什么是 Web Worker?
+
+> Web Workers makes it possible to run a script operation in background thread separate from the main execution thread of a web application
+
+Web Workers 可以在主线程之外的背景线程中执行脚本。这样就能在不堵塞主线程（主要用于渲染 UI 界面）时，运行复杂度很高的运算。
+
 ## URL
 
 `URL` 用来提供了一些静态方法，用以操纵 URL 对象。
@@ -39,4 +45,5 @@ URL 的兼容性不是太好，IE 全线不支持。
 
 ## References
 
+- [Web Workers API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 - [URL - MDN](https://developer.mozilla.org/en-US/docs/Web/API/URL)
