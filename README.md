@@ -26,6 +26,7 @@
 1. [How to use native es6 module in Chrome 61?](./docs/native-es6-in-chrome61/README.md)
 1. [How to use Regular Express?](./docs/regular-expression/README.md)
 1. [如何使用 Web Workers?](./docs/web-workers/README.md)
+1. [如何理解原型链？](./docs/prototype-chain/README.md)
 
 ## 教程列表
 1. [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
